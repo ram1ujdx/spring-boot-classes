@@ -8,9 +8,9 @@
 </head>
 <body>
 <form action="user" method="post">
-Enter ID : <input type="number" name="txtUserId">
-Enter Name : <input type="text" name="txtUserName">
-Enter Age : <input type="number" name="txtUserAge">
+Enter ID : <input type="number" name="userId">
+Enter Name : <input type="text" name="userName">
+Enter Age : <input type="number" name="age">
 <button type="submit">Add User</button>
 </form>
 </body>
